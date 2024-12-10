@@ -1,0 +1,22 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="25.0.3">
+  <diagram name="Página-1" id="3v6lAf_vfaowu7pK2F8D">
+    <mxGraphModel dx="969" dy="530" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="w0N016Ho1fJT87IFxD5Z-2" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Imc&lt;/font&gt;" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="209" y="160" width="410" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="w0N016Ho1fJT87IFxD5Z-3" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;+ peso: double&lt;/font&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;+ peso: double&lt;/font&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="w0N016Ho1fJT87IFxD5Z-2">
+          <mxGeometry y="26" width="410" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="w0N016Ho1fJT87IFxD5Z-4" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" vertex="1" parent="w0N016Ho1fJT87IFxD5Z-2">
+          <mxGeometry y="90" width="410" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="w0N016Ho1fJT87IFxD5Z-5" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&amp;nbsp;calcularImc(peso,altura): double&lt;/font&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;classificarImc(double: imc): String&lt;/font&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="w0N016Ho1fJT87IFxD5Z-2">
+          <mxGeometry y="98" width="410" height="62" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
